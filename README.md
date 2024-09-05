@@ -1,8 +1,5 @@
-# node_template
+# Weather App
+Practicing with VisualCrossing api
 
-Node template
+Live site: https://reiogo.github.io/weather_app/
 
-Using 
-    -ESlint 
-    -Prettier
-    -Html Webpack
