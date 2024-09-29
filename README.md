@@ -1,5 +1,11 @@
 # Weather App
-Practicing with VisualCrossing api
+Learning how to use api with VisualCrossing (https://www.visualcrossing.com/).
 
-Live site: https://reiogo.github.io/weather_app/
+Live demo: https://reiogo.github.io/weather_app/
 
+# Tech Stack:
+- HTML, CSS
+- Javascript
+- Promises, Async and await
+- Fetch API
+- Webpack
